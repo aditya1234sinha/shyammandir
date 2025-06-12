@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/shyammandir/static/css/main.345a5537.css",
+    "main.css": "/shyammandir/static/css/main.5f8c0acb.css",
     "main.js": "/shyammandir/static/js/main.15e9283b.js",
     "static/js/453.911ac882.chunk.js": "/shyammandir/static/js/453.911ac882.chunk.js",
     "static/media/logo.svg": "/shyammandir/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/shyammandir/index.html",
-    "main.345a5537.css.map": "/shyammandir/static/css/main.345a5537.css.map",
+    "main.5f8c0acb.css.map": "/shyammandir/static/css/main.5f8c0acb.css.map",
     "main.15e9283b.js.map": "/shyammandir/static/js/main.15e9283b.js.map",
     "453.911ac882.chunk.js.map": "/shyammandir/static/js/453.911ac882.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.345a5537.css",
+    "static/css/main.5f8c0acb.css",
     "static/js/main.15e9283b.js"
   ]
 }
